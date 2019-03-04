@@ -25,7 +25,7 @@ Weird
 ```
 ### Explanation 0
 
-`n = 3`
+n = 3
 
 n is odd and odd numbers are weird, so we print Weird.
 
@@ -39,6 +39,6 @@ Not weird
 ```
 ### Explanation 1
 
-`n = 24`
+n = 24
 
 n > 20 and n is even, so it isn't weird. Thus we print Not Weird.
